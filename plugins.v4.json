@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updateTime": "2026-01-27T10:00:00Z",
+  "updateTime": "2026-01-28T10:00:00Z",
   "plugins": [
     {
       "id": "napcat-plugin-builtin",
@@ -14,7 +14,7 @@
         "官方",
         "工具"
       ],
-      "minVersion": "1.0.0"
+      "minVersion": "4.14.0"
     },
     {
       "id": "napcat-plugin-aicat",
@@ -28,7 +28,7 @@
         "AI",
         "娱乐"
       ],
-      "minVersion": "1.0.0"
+      "minVersion": "4.14.0"
     },
     {
       "id": "napcat-plugin-play",
@@ -41,7 +41,7 @@
       "tags": [
         "娱乐"
       ],
-      "minVersion": "1.0.0"
+      "minVersion": "4.14.0"
     },
     {
       "id": "napcat-plugin-group-manager",
@@ -56,7 +56,7 @@
         "工具",
         "管理"
       ],
-      "minVersion": "1.0.1"
+      "minVersion": "4.14.0"
     }
   ]
 }
