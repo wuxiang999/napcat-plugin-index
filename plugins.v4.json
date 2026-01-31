@@ -119,8 +119,8 @@
       "version": "1.0",
       "description": "多类型消息撤回",
       "author": "鸡太美",
-      "homepage": "https://github.com/ovoox/napcat-plugin-group-revoke/archive/refs/tags/v1.0.zip",
-      "downloadUrl": "",
+      "homepage": "https://github.com/ovoox/napcat-plugin-group-revoke",
+      "downloadUrl": "https://github.com/ovoox/napcat-plugin-group-revoke/archive/refs/tags/v1.0.zip",
       "tags": [
         "群管",
         "撤回"
