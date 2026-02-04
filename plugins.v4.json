@@ -181,6 +181,20 @@
         "工具"
       ],
       "minVersion": "4.14.0"
+    },
+    {
+      "id": "napcat-plugin-qemoji",
+      "name": "固定表情回应",
+      "version": "1.0.0",
+      "description": "NapCat固定表情消息回应",
+      "author": "鸡太美",
+      "homepage": "https://github.com/ovoox/napcat-plugin-qemoji",
+      "downloadUrl": "https://github.com/ovoox/napcat-plugin-group-revoke/releases/download/v1.0.0/napcat-plugin-group-revoke.zip",
+      "tags": [
+        "工具",
+        "表情"
+      ],
+      "minVersion": "4.14.0"
     }
   ]
 }
