@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updateTime": "2026-02-08T18:32:36Z",
+  "updateTime": "2026-02-09T03:13:50Z",
   "plugins": [
     {
       "id": "napcat-plugin-builtin",
@@ -316,6 +316,20 @@
       "downloadUrl": "https://github.com/NanTingPer/napcat-terraria-wiki-plugin/releases/download/v0.1.2/napcat-plugin-terraria-wiki.zip",
       "tags": [
         "工具"
+      ],
+      "minVersion": "4.14.0"
+    },
+    {
+      "id": "napcat-plugin-epic-free",
+      "name": "Epic喜加一",
+      "version": "1.0.0",
+      "description": "Epic Games Store 每周免费游戏订阅推送插件",
+      "author": "AQiaoYo",
+      "homepage": "https://github.com/AQiaoYo/napcat-plugin-epic-free",
+      "downloadUrl": "https://github.com/AQiaoYo/napcat-plugin-epic-free/releases/download/v1.0.0/napcat-plugin-epic-free.zip",
+      "tags": [
+        "订阅",
+        "游戏"
       ],
       "minVersion": "4.14.0"
     }
